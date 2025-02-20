@@ -560,7 +560,7 @@ ol li code, p code, table code, ul li code {
     overflow: visible;
     margin: 60px auto;
     padding: 50px;
-    background: #fff;
+    background: rgba(255, 255, 255, 0.9);
     box-shadow: 0 10px 20px 0 hsla(0, 0%, 92.5%, .86);
     border-radius: 8px
 }
